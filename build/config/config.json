@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbd56f573030e02ef342bfb902334d8A412111294",
+  "SCAN_LINK": "https://etherscan.io/address/0xbd56f573030e02ef342bfb902334d8A412111294",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Winged Axolotls",
+  "SYMBOL": "WA",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 150000000000000000,
+  "DISPLAY_COST": 0.15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "SHOW_BACKGROUND": false
+}
